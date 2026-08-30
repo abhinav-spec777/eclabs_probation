@@ -56,8 +56,6 @@ E-Commerce-PowerBI-Dashboard/
 
 ├── Dataset/
 
-├── Screenshots/
-
 └── README.md
 
 ## 👨‍💻 Author
