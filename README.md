@@ -62,6 +62,6 @@ E-Commerce-PowerBI-Dashboard/
 
 ## 👨‍💻 Author
 
-Your Name
+Abhinav Kripal Ranjan
 
 Power BI | Data Analytics | Business Intelligence
